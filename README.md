@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi 👋 I'm Sarveshwar Hirve
 
-<!--
-**sarveshwarhirve17-ux/sarveshwarhirve17-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Full Stack Developer
 
-Here are some ideas to get you started:
+I am currently learning **Web Development** and building projects using:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML
+- CSS
+- JavaScript
+- React (learning)
+- Python (learning)
+
+---
+
+### 🚀 My Projects
+
+Todo App  
+A simple task manager built using HTML, CSS and JavaScript.
+
+---
+
+### 🌐 Portfolio
+
+(You can add your portfolio link here later)
+
+---
+
+### 📫 Contact Me
+
+Email: sarveshwarhirve17@gmail.com  
+
+LinkedIn: (add your LinkedIn link here)
+
+---
+
+### 📊 GitHub Stats
+
+![Sarveshwar's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarveshwarhirve17-ux&show_icons=true&theme=default)
+
+---
+
+### ⚡ Fun Fact
+
+I am currently on a **90 Day Developer Mission** to become job ready.
