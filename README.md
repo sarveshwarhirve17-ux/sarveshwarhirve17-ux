@@ -1,30 +1,34 @@
-# 👋 Hi, I'm Sarveshwar Hirve
+<h1 align="center">Hi 👋, I'm Sarveshwar Hirve</h1>
+<h3 align="center">🚀 Aspiring Full Stack Developer</h3>
 
-### 🚀 Aspiring Full Stack Developer
+<p align="center">
+  💻 Building real-world projects | 🌱 Learning React & Python | 🎯 Goal: Remote Developer Job
+</p>
 
-I am currently learning **Web Development** and building real-world projects.
+---
+
+## 🚀 About Me
+- 🔭 Currently working on **JavaScript & React Projects**
+- 🌱 Learning **Full Stack Development (React + FastAPI)**
+- 🎯 Goal: **Remote Job in Foreign Company**
+- ⚡ Fun fact: I am on a **90 Day Developer Mission**
 
 ---
 
 ## 🛠 Tech Stack
-- HTML
-- CSS
-- JavaScript
-- React (learning)
-- Python (learning)
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,git,github,vscode" />
+</p>
 
 ---
 
 ## 🚀 Projects
 
 ### 📌 Todo App
-A simple and responsive task manager built using HTML, CSS, and JavaScript.
-
-### ✨ Features:
-- Add tasks
-- Delete tasks
-- Store data using localStorage
-- Simple UI
+✔ Add tasks  
+✔ Delete tasks  
+✔ Data stored in localStorage  
+✔ Clean UI  
 
 ---
 
@@ -33,16 +37,26 @@ A simple and responsive task manager built using HTML, CSS, and JavaScript.
 
 ---
 
-## 📬 Contact Me
-📧 Email: sarveshwarhirve17@gmail.com  
-💼 LinkedIn: https://www.linkedin.com/in/sarveshwar-hirve-89b414246
+## 📬 Connect With Me
+<p>
+  <a href="https://www.linkedin.com/in/sarveshwar-hirve-89b414246">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:sarveshwarhirve17@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
 
 ---
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sarveshwarhirve17-ux&show_icons=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sarveshwarhirve17-ux&show_icons=true&theme=tokyonight" />
+</p>
 
 ---
 
-## ⚡ Fun Fact
-I am currently on a **90 Day Developer Mission** to become job ready 💻🔥
+## 🔥 Profile Views
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=sarveshwarhirve17-ux&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
