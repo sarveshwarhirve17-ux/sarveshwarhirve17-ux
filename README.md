@@ -1,9 +1,12 @@
-# Hi 👋 I'm Sarveshwar Hirve
+# 👋 Hi, I'm Sarveshwar Hirve
 
-### Aspiring Full Stack Developer
+### 🚀 Aspiring Full Stack Developer
 
-I am currently learning **Web Development** and building projects using:
+I am currently learning **Web Development** and building real-world projects.
 
+---
+
+## 🛠 Tech Stack
 - HTML
 - CSS
 - JavaScript
@@ -12,33 +15,34 @@ I am currently learning **Web Development** and building projects using:
 
 ---
 
-### 🚀 My Projects
+## 🚀 Projects
 
-Todo App  
-A simple task manager built using HTML, CSS and JavaScript.
+### 📌 Todo App
+A simple and responsive task manager built using HTML, CSS, and JavaScript.
 
----
-
-### 🌐 Portfolio
-
-(You can add your portfolio link here later)
-
----
-
-### 📫 Contact Me
-
-Email: sarveshwarhirve17@gmail.com  
-
-LinkedIn: (add your LinkedIn link here)
+### ✨ Features:
+- Add tasks
+- Delete tasks
+- Store data using localStorage
+- Simple UI
 
 ---
 
-### 📊 GitHub Stats
-
-![Sarveshwar's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarveshwarhirve17-ux&show_icons=true&theme=default)
+## 🌐 Portfolio
+👉 https://sarveshwarhirve17-ux.github.io/sarveshwar-portfolio/
 
 ---
 
-### ⚡ Fun Fact
+## 📬 Contact Me
+📧 Email: sarveshwarhirve17@gmail.com  
+💼 LinkedIn: https://www.linkedin.com/in/sarveshwar-hirve-89b414246
 
-I am currently on a **90 Day Developer Mission** to become job ready.
+---
+
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sarveshwarhirve17-ux&show_icons=true)
+
+---
+
+## ⚡ Fun Fact
+I am currently on a **90 Day Developer Mission** to become job ready 💻🔥
