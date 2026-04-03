@@ -1,62 +1,84 @@
-<h1 align="center">Hi 👋, I'm Sarveshwar Hirve</h1>
-<h3 align="center">🚀 Aspiring Full Stack Developer</h3>
+# Hi, I'm Sarveshwar Hirve 👋
 
-<p align="center">
-  💻 Building real-world projects | 🌱 Learning React & Python | 🎯 Goal: Remote Developer Job
-</p>
-
----
-
-## 🚀 About Me
-- 🔭 Currently working on **JavaScript & React Projects**
-- 🌱 Learning **Full Stack Development (React + FastAPI)**
-- 🎯 Goal: **Remote Job in Foreign Company**
-- ⚡ Fun fact: I am on a **90 Day Developer Mission**
-
----
-
-## 🛠 Tech Stack
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,git,github,vscode" />
-</p>
+Frontend Developer focused on building real-world applications using React.  
+Actively preparing for remote developer opportunities.
 
 ---
 
 ## 🚀 Projects
 
-### 📌 Todo App
-✔ Add tasks  
-✔ Delete tasks  
-✔ Data stored in localStorage  
-✔ Clean UI  
+### 1. AI Task Manager
+A modern task management application with AI-based suggestions and premium UI.
+
+**Features:**
+- Add / Edit / Delete tasks  
+- Task completion tracking  
+- Filters (All / Completed / Pending)  
+- Notes section  
+- AI suggestions  
+- Dark / Light mode  
+- LocalStorage support  
+
+🔗 Live: https://ai-task-manager-i8ej.vercel.app  
+🔗 Code: https://github.com/sarveshwarhirve17-ux/ai-task-manager  
 
 ---
 
-## 🌐 Portfolio
-👉 https://sarveshwarhirve17-ux.github.io/sarveshwar-portfolio/
+### 2. Netflix Clone
+A responsive frontend clone inspired by Netflix UI.
+
+**Features:**
+- Modern UI layout  
+- Responsive design  
+- Clean styling  
+
+🔗 Live: https://sarveshwarhirve17-ux.github.io/Netflix-clone/  
+🔗 Code: https://github.com/sarveshwarhirve17-ux/Netflix-clone  
 
 ---
 
-## 📬 Connect With Me
-<p>
-  <a href="https://www.linkedin.com/in/sarveshwar-hirve-89b414246">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="mailto:sarveshwarhirve17@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-</p>
+### 3. JavaScript Todo App
+A lightweight task manager built using pure JavaScript.
+
+**Features:**
+- Add / Delete tasks  
+- LocalStorage persistence  
+- Simple UI  
+
+🔗 Live: https://sarveshwarhirve17-ux.github.io/todo-app/  
+🔗 Code: https://github.com/sarveshwarhirve17-ux/todo-app  
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sarveshwarhirve17-ux&show_icons=true&theme=tokyonight" />
-</p>
+## 🛠 Tech Stack
+
+- HTML  
+- CSS  
+- JavaScript  
+- React  
+- Git & GitHub  
 
 ---
 
-## 🔥 Profile Views
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=sarveshwarhirve17-ux&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
+## 🌐 Connect
+
+LinkedIn:  
+https://www.linkedin.com/in/sarveshwar-hirve-89b414246  
+
+---
+
+## 🎯 Current Focus
+
+- Building real-world React projects  
+- Improving frontend architecture skills  
+- Preparing for remote developer roles  
+
+---
+
+## ⚡ About Me
+
+I focus on building practical projects and improving consistently through hands-on development.
+
+---
+
+⭐ Consistency and execution over perfection
